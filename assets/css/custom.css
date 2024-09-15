@@ -1,0 +1,18 @@
+.partners-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 5px;
+}
+.partners-child {
+  border: 2px solid var(--link-col);
+  border-radius: 10px;
+  overflow: hidden;
+  aspect-ratio: 1;
+}
+img + em {
+  display: block;
+  text-align: center;
+  font-size: 1rem;
+  color: var(--gray);
+}
+
