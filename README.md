@@ -12,6 +12,8 @@ title: <Insert title here>
 INSERT YOUR CONTENT HERE
 ```
 Then, simply write your content in [markdown](https://www.markdownguide.org/basic-syntax/). This will be rendered into HTML automatically.
+
 Once you're done, create a pull request. Once merged, it will be deployed automatically, takes about a minute.
 
+## Credits
 Forked from [Beautiful Jekyll template](https://github.com/daattali/beautiful-jekyll).
