@@ -8,7 +8,7 @@ title: About
 We've partnered with Dr. Wenhao Sun from [Olakai Hawaii](https://olakai-hawaii.com/) to work on automation of the sea asparagus harvesting process.
 
 ## Team
-The team consists of Max, Joyce, Kevin, Daniel Z, and Daniel Q, all in their 4th year of Mechatronics Engineering at the University of Waterloo.
+The team consists of Max, Joyce, Kevin, Daniel Y, and Daniel Q, all in their 4th year of Mechatronics Engineering at the University of Waterloo.
 
-On top of the mission, *Salico* and projects are designed to meet the requirements of UWaterloo Engineering's [Capstone Design](https://uwaterloo.ca/capstone-design/) project.
+On top of the mission, *Salico*'s autonomous harvester project is designed to meet the requirements of UWaterloo Engineering's [Capstone Design](https://uwaterloo.ca/capstone-design/) project.
 
