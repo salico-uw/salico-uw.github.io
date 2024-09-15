@@ -2,6 +2,13 @@
 
 For MTE481 coursework.
 
+## How do a serve the site locally?
+
+Clone the repo and then cd into it. Then run:
+```
+docker run -p 4000:4000 -v $(pwd):/site bretfisher/jekyll-serve
+```
+
 ## How do I create a new post?
 Make a new file under `_posts/`, such as `_posts/2024-09-15-myfirstpost.md`. Add the following header in the file:
 ```
