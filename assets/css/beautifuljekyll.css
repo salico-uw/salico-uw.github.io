@@ -175,6 +175,7 @@ img {
   line-height: 1.5;
   padding-top: 0.625rem;
   padding-bottom: 0.625rem;
+  padding-left: 1rem;
   font-size: 1.125rem;
 }
 
@@ -259,7 +260,7 @@ img {
   }
 
   .navbar-expand-xl .navbar-nav .nav-item:not(.dropdown):last-child .nav-link {
-    padding-right: 0;
+    padding-right: 1rem;
   }
 }
 

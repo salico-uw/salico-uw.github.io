@@ -1,7 +1,7 @@
 .partners-container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-gap: 5px;
+  grid-gap: 10px;
 }
 .partners-child {
   border: 2px solid var(--link-col);

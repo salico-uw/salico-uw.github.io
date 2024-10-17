@@ -3,13 +3,13 @@
   logo-path: logos/olakai.jpg
   link: "https://olakai-hawaii.com/"
 
-# - name: Olakai Hawaii
-#   logo-path: crepe.jpg
-#   link: "https://olakai-hawaii.com/"
-#
-# - name: Olakai Hawaii
-#   logo-path: logos/olakai.jpg
-#   link: "https://olakai-hawaii.com/"
+- name: Onshape
+  logo-path: logos/onshape.png
+  link: "https://www.onshape.com/en/"
+
+- name: Altium
+  logo-path: logos/altium.png
+  link: "https://www.altium.com/"
 #
 # - name: Olakai Hawaii
 #   logo-path: logos/olakai.jpg
