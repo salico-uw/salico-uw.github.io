@@ -42,6 +42,11 @@ layout: base
       <div class="blog-post">
         {{ content }}
       </div>
+      {% if page.embed %}
+      <object style="width:800px;" height="600" type="application/pdf" data="{{ page.embed }}?#zoom=85&scrollbar=0&toolbar=0&navpanes=0">
+        <p>Sorry, the PDF could not be displayed.</p>
+    </object>
+      {% endif %}
 
       {% if page.tags.size > 0 %}
         <div class="blog-tags">
