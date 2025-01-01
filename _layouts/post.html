@@ -39,9 +39,6 @@ layout: base
         </div>
       {% endif %}
 
-      <div class="blog-post">
-        {{ content }}
-      </div>
       {% if page.embed %}
       <i>{{ page.excerpt }}</i>
       <hr>
@@ -49,6 +46,9 @@ layout: base
         <p>Sorry, the PDF could not be displayed.</p>
     </object>
       {% endif %}
+      <div class="blog-post">
+        {{ content }}
+      </div>
 
       {% if page.tags.size > 0 %}
         <div class="blog-tags">
