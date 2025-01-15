@@ -10,6 +10,27 @@
 - name: Altium
   logo-path: logos/altium.png
   link: "https://www.altium.com/"
+
+- name: wrench fund
+  logo-path: logos/wrenchfund_logo.png
+  link: "https://wrenchfund.ca/"
+
+- name: Noble Custom Machining Inc
+  logo-path: logos/noble.jpg
+  link: "https://noblecustommachining.ca/"
+  
+- name: VIAIR
+  logo-path: logos/viair.png
+  link: "https://viaircorp.com/"
+  
+- name: Automation Direct
+  logo-path: logos/auto-direct.png
+  link: "https://www.automationdirect.com/"
+
+- name: Waterloo Engineering
+  logo-path: logos/uw-eng.jpg
+  link: "https://uwaterloo.ca/engineering/entrepreneurship/funding/engineer-future-trust"
+
 #
 # - name: Olakai Hawaii
 #   logo-path: logos/olakai.jpg
