@@ -5,4 +5,4 @@ excerpt: Joyce and Daniel take the second prototype to the farm in Oahu and star
 thumbnail-img: /assets/img/01-14-thumbnail.JPG
 embed: /assets/pdf/01-14.pdf
 ---
-<iframe width="560" height="315" src="https://youtu.be/fTKP5sBEOtA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fTKP5sBEOtA?si=UKs2VH-Qwz-eyqdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
