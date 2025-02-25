@@ -7,6 +7,8 @@ title: About
 
 We've partnered with Dr. Wenhao Sun from [Olakai Hawaii](https://olakai-hawaii.com/) to work on automation of the sea asparagus harvesting process.
 
+Special thanks to: Wenhao Sun, Andrew Deagon, Peter Teertstra, Joe Kinsella, Cody Noble, Chip McDaniel, Wyatt Behringer, and Michelle Truong.
+
 ## Team
 The team consists of Max, Joyce, Kevin, Daniel Y, and Daniel Q, all in their 4th year of Mechatronics Engineering at the University of Waterloo.
 
