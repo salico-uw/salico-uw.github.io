@@ -12,6 +12,7 @@
   flex-direction: column;
   justify-content: center;  /* Centering y-axis */
   align-items :center; /* Centering x-axis */
+  padding: 10px;
 }
 
 img + em {
