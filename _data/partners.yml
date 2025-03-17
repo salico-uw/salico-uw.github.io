@@ -31,6 +31,10 @@
   logo-path: logos/uw-eng.jpg
   link: "https://uwaterloo.ca/engineering/entrepreneurship/funding/engineer-future-trust"
 
+- name: igus
+  logo-path: logos/igus.webp
+  link: "https://www.igus.ca"
+
 #
 # - name: Olakai Hawaii
 #   logo-path: logos/olakai.jpg
