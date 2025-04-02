@@ -35,6 +35,10 @@
   logo-path: logos/igus.webp
   link: "https://www.igus.ca"
 
+- name: Conrad School of Entrepreneurship and Business
+  logo-path: logos/conrad.jpg
+  link: "https://uwaterloo.ca/conrad-school-entrepreneurship-business/"
+
 #
 # - name: Olakai Hawaii
 #   logo-path: logos/olakai.jpg
