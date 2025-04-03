@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wrapping up the Busy Month of Match
+title: Wrapping up the Busy Month of March
 excerpt: In March, we made plenty of changes to our robot based on learnings from our February trip. At the same time, we worked hard to prepare for our professor demos, meetings with Olakai/advisors, the Norman Esch Pitch competition, and the MME Symposium itself. Here is the summary of our hard work.
 thumbnail-img: /assets/img/group-2.png
 ---

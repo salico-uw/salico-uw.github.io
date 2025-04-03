@@ -2,7 +2,7 @@
 layout: post
 title: Norman Esch Pitch Competition 
 excerpt: We entered the Norman Esch Pitch Competition finals and ended up receiving the finalist prize of $5000, along with the people's choice award of $4500!
-thumbnail-img: /assets/img/logos/conrad.jpg
+thumbnail-img: /assets/img/esch-cheques.jpg
 ---
 We entered the Norman Esch Pitch Competition finals and ended up receiving the finalist prize of $5000, along with the people's choice award of $4500!
 
