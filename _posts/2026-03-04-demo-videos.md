@@ -2,7 +2,7 @@
 layout: post
 title: Demo Videos of the Final Robot
 excerpt: One year later, Joyce, Max, and Daniel reunite on Olakai's farm to assemble and document the robot in its current form.
-thumbnail-img: /assets/img/group-3/4/26.png
+thumbnail-img: /assets/img/group-3-4-26.png
 ---
 In March 2026, Joyce, Max and Daniel met up on Olakai's farm to assemble the robot, test its functionality and record demo videos. The robot now lives on Olakai's farm, serving as a proof of concept for engineers and investors.
 
