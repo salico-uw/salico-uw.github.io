@@ -24,3 +24,4 @@ Once you're done, create a pull request. Once merged, it will be deployed automa
 
 ## Credits
 Forked from [Beautiful Jekyll template](https://github.com/daattali/beautiful-jekyll).
+
